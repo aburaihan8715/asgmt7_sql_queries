@@ -1,1 +1,1 @@
-# asgmt7_sql_queries
+# PostgreSQL Questions and Answers
